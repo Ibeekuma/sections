@@ -48,7 +48,7 @@ section {
 }
 
 .btn {
-  padding: 0;
+  padding: .75em;
   margin: 0;
   background-color: transparent;
   color: #666;
