@@ -10,7 +10,7 @@ html {
 body {
   font-family: Lato, sans-serif;
   background-color: #eee9de;
-  padding: 2em 1em 1em 1em ;
+  padding: 2em 1em 1em;
   margin: 0;
 }
 
@@ -23,25 +23,24 @@ img {
 
 h1 {
   display: inline-block;
+  text-align: left;
 }
 
 p {
   display: inline-block;
-  text-align: left;
+  text-align: center;
   max-width: 25em;
 }
 
 div {
   display: inline-block;
-  margin: 0;
-  padding: 0;
 }
 
 a {
   text-decoration: none;
   color: #666;
   border: 3px solid #333;
-  padding: .5rem;
+  padding: .5rem .4em;
   border-radius: 7px;
   vertical-align: middle;
   background-color: transparent;
@@ -53,5 +52,5 @@ a {
 }
 
 h2 {
-  font-size: 1.1rem
+  font-size: 1.1rem;
 }
