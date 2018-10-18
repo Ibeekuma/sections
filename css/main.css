@@ -15,10 +15,9 @@ body {
 }
 
 img {
-  width: 100%;
   max-width: 25em;
   display: inline-block;
-  margin: auto 2em;
+  margin: 1.5em;
 }
 
 h1 {
