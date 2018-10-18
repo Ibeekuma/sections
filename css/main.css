@@ -58,7 +58,7 @@ section {
   margin: 1.5rem;
   background-color: transparent;
   color: #666;
-  width: 100%
+  width: 100%;
 }
 
 a {
@@ -69,4 +69,5 @@ a {
   text-align: center;
   font-family: Lato, sans-serif;
   font-weight: normal;
+  width: 100%;
 }
