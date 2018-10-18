@@ -32,6 +32,7 @@ p {
   text-align: left;
   max-width: 25em;
   color: #333;
+  font-weight: bold;
 }
 
 div {
@@ -56,6 +57,7 @@ a {
   padding: .5em .4em;
   border-radius: 10px;
   vertical-align: middle;
-  background-color: #666;
+  background-color: #eee9de;
   text-align: center;
+  font-weight: bold;
 }
