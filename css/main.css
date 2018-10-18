@@ -17,14 +17,12 @@ body {
 img {
   width: 100%;
   max-width: 25em;
-  display:inline-block block;
-  margin:auto 1.5em;
+  display: inline-block;
+  margin: 1.5em;
 }
 
 h1 {
-  text-align: center;
   display: inline-block;
-  text-align: left;
 }
 
 p {
