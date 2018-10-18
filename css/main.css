@@ -10,7 +10,7 @@ html {
 body {
   font-family: Lato, sans-serif;
   background-color: #eee9de;
-  padding: 2em;
+  padding: 2em 1em 1em 1em ;
   margin: 0;
 }
 
@@ -18,7 +18,7 @@ img {
   width: 100%;
   max-width: 25em;
   display: block;
-  margin: 1.5em;
+  margin: 1.5em 0 0;
 }
 
 h1 {
@@ -29,6 +29,7 @@ p {
   display: inline-block;
   text-align: left;
   max-width: 25em;
+  font-size:
 }
 
 div {
@@ -44,9 +45,14 @@ a {
   padding: .5rem;
   border-radius: 7px;
   vertical-align: middle;
+  background-color: transparent;
   text-align: center;
 }
 
 .btn {
   padding: .75rem;
+}
+
+h2 {
+  font-size: 1.1rem
 }
