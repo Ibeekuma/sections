@@ -48,7 +48,7 @@ section {
 }
 
 .btn {
-  padding: .75em;
+  padding: .4em .5em .75em;
   margin: 0;
   background-color: transparent;
   color: #666;
@@ -57,8 +57,8 @@ section {
 a {
   text-decoration: none;
   border: 3px solid #333;
-  padding: .4em .5em .75em;
-  border-radius: 4px;
+  padding: .75em;
+  border-radius: 7px;
   text-align: left;
   font-family: sans-serif;
   font-weight: normal;
