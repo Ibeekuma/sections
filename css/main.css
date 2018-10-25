@@ -23,12 +23,12 @@ img {
 .img {
   max-width: 25em;
   display: inline-block;
-  margin: 1.5rem;
+  padding: 1em;
+  vertical-align: middle;
 }
 
 h2 {
   font-family: Lato, sans-serif;
-  margin: 1.5rem;
 }
 
 p {
@@ -36,21 +36,20 @@ p {
   color: #333;
   font-weight: normal;
   font-family: Lato, sans-serif;
-  margin: 1.5rem;
 }
 
 .text {
   display: inline-block;
   max-width: 25em;
   text-align: left;
+  vertical-align: middle;
+  padding: 1em;
 }
 
 section {
   display: block;
-  padding-top: .4em;
-  padding-bottom: .4em;
-  width: 100%;
-  max-width: 25em;
+  padding-top: 2em;
+  padding-bottom: 2em;
 }
 
 .btn {
@@ -69,5 +68,4 @@ a {
   border-radius: 7px;
   font-family: Lato, sans-serif;
   font-weight: normal;
-  width: 100%;
 }
