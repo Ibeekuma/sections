@@ -11,51 +11,52 @@ body {
   font-family: Lato, sans-serif;
   background-color: #eee9de;
   margin: 0;
-  padding: 0;
+  text-align: center;
+  display: block;
 }
 
 img {
   width: 100%;
-  max-width: 25em;
   display: block;
+}
+
+.img {
+  max-width: 25em;
+  display: inline-block;
   margin: 1.5rem;
 }
 
 h2 {
-  display: inline-block;
-  text-align: center;
-  margin: 1.5rem;
   font-family: Lato, sans-serif;
+  margin: 1.5rem;
 }
 
 p {
-  display: inline-block;
   text-align: left;
-  width: 100%;
-  max-width: 25em;
   color: #333;
   font-weight: normal;
   font-family: Lato, sans-serif;
+  margin: 1.5rem;
 }
 
-div {
+.text {
   display: inline-block;
   max-width: 25em;
-  width: 100%;
+  text-align: left;
 }
 
 section {
-  vertical-align: middle;
-  text-align: center;
+  display: block;
   padding-top: .4em;
   padding-bottom: .4em;
-  margin: 0;
   width: 100%;
+  max-width: 25em;
 }
 
 .btn {
   padding: .4em .5em .75em;
   margin: 1.5rem;
+  text-align: center;
   background-color: transparent;
   color: #666;
   width: 100%;
@@ -66,7 +67,6 @@ a {
   border: 3px solid #333;
   padding: .75em;
   border-radius: 7px;
-  text-align: center;
   font-family: Lato, sans-serif;
   font-weight: normal;
   width: 100%;
