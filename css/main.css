@@ -29,6 +29,7 @@ img {
 
 h2 {
   font-family: Lato, sans-serif;
+  margin-top: 0;
 }
 
 p {
@@ -54,17 +55,12 @@ section {
 
 .btn {
   padding: .4em .5em .75em;
-  margin: 1.5rem;
   text-align: center;
   background-color: transparent;
   color: #666;
-  width: 100%;
-}
-
-a {
+  display: inline-block;
   text-decoration: none;
   border: 3px solid #333;
-  padding: .75em;
   border-radius: 7px;
   font-family: Lato, sans-serif;
   font-weight: normal;
